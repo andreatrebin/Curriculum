@@ -35,18 +35,7 @@ nav ul li {
     
 }
 
-/*.header::after {
-    content: '';
-    height: 100vh;
-    width: 100%;
-background-image: url(../imagen/fondo.jpg);
-background-size: cover;
-background-repeat: no-repeat;
-background-position:   center;
-display: block;
-filter: blur(10px);
--webkit-filter: blur(10px);
-}*/
+
 
 .header-content {
     position: relative;
@@ -119,13 +108,7 @@ filter: blur(10px);
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 30px;
 }
-/*#herramientas {
-    background-color:rgba(111, 150, 168, 0.5) ;
-    width: 100%;
-    height: 450px;
-    border: solid 3px;
-}
-*/
+
 .slider {
     width: 80vw;
     padding-top: 50px;
